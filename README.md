@@ -42,7 +42,7 @@ Browser mode:
 ## Quick start
 
 ```bash
-git clone https://github.com/AssemblyAI/voice-agent-nodejs-assemblyai
+git clone https://github.com/kelseyefoster/voice-agent-nodejs-assemblyai
 cd voice-agent-nodejs-assemblyai
 
 npm install
